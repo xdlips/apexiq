@@ -1,47 +1,50 @@
-# PaceLab                                                                                                                                                          
-                                                                                                                                                                       **iRacing için gelişmiş telemetri ve koçluk platformu.**
-                                                                                                                                                                     
-  ---
+# ApexIQ
 
-  ## İndir
+**Advanced telemetry and coaching platform for iRacing.**
 
-  En güncel sürümü aşağıdaki bağlantıdan indirebilirsin:
+---
 
-  ➜ **[Releases sayfasına git →](../../releases)**
+## Download
 
-  Dosyayı indir: `PaceLab-Setup-x.x.x.exe`
+You can download the latest version from the link below:
 
-  ---
+➜ **[Go to Releases →](../../releases)**
 
-  ## Kurulum
+Download file: `ApexIQ-Setup-x.x.x.exe`
 
-  1. `PaceLab-Setup-x.x.x.exe` dosyasını çalıştır
-  2. Kurulumu tamamla
-  3. Masaüstündeki **PaceLab** kısayolundan başlat
+---
 
-  > Windows Defender uyarı verirse **"Yine de çalıştır"** seçeneğini seç.
-  > Uygulama kod imzalı değil, ancak tamamen güvenlidir.
+## Installation
 
-  ---
+1. Run `ApexIQ-Setup-x.x.x.exe`
+2. Complete the installation
+3. Launch from the **ApexIQ** desktop shortcut
 
-  ## Otomatik Güncelleme
+> If Windows Defender shows a warning, click **"Run anyway"**  
+> The app is not code-signed yet, but it is completely safe.
 
-  Yeni bir sürüm yayınlandığında uygulama arka planda güncellemeyi indirir ve sağ altta bildirim gösterir.
-  **Ayarlar → Güncellemeleri Kontrol Et** butonu ile manuel kontrol de yapabilirsin.
+---
 
-  ---
+## Auto Update
 
-  ## Gereksinimler
+When a new version is released, the app downloads the update in the background and shows a notification.
 
-  - Windows 10 / 11 (64-bit)
-  - iRacing yüklü ve aktif abonelik
+You can also check manually from:  
+**Settings → Check for Updates**
 
-  ---
+---
 
-  ## İletişim
+## Requirements
 
-  Sorun veya öneri için Issues sekmesini kullanabilirsin.
+- Windows 10 / 11 (64-bit)
+- iRacing installed with an active subscription
 
-  ---
+---
 
-  <sub>© 2026 Team PaceLab · Tüm hakları saklıdır.</sub>
+## Contact
+
+For issues or suggestions, please use the Issues section.
+
+---
+
+<sub>© 2026 Team PaceLab · All rights reserved.</sub>
